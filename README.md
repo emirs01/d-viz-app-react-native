@@ -1,4 +1,4 @@
-# d-viz-app-react-native
+# dövizapp-react-native
 
 
 
